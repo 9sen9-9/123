@@ -1,8 +1,5 @@
 import java.util.Objects;
-
-
 import java.util.Objects;
-
 public class Author {
     private String firstName;
     private String lastName;

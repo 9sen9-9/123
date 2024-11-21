@@ -11,7 +11,5 @@ public class Main {
         System.out.println(agataKristy.hashCode());
         System.out.println(agataKristy2.hashCode());
         System.out.println(agataKristy.equals(agataKristy2));
-
-
     }
 }
